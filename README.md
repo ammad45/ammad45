@@ -1,10 +1,9 @@
 # Ammad Fareed
 
-**CFD software engineer · Numerical methods · OpenFOAM**  
+**CFD software engineer · Numerical methods .**  
 Germany
 
-I build **production-grade numerics** for Computational Fluid Dynamics — schemes that stay accurate and stable on real industrial meshes, from **transonic / supersonic** aerodynamics to complex multiphysics workflows.
-
+I build **production-grade numerics** for Computational Fluid Dynamics and schemes that stay accurate and stable on real industrial , bad meshes and complex physics. 
 ---
 
 ### What I do
@@ -27,7 +26,7 @@ If a recruiter needs one line: *I make finite-volume numerics that don’t fall 
 | [**surfaceNormalGradientSchemes**](https://github.com/ammad45/surfaceNormalGradientSchemes) | Implicit non-orthogonal & skew corrections for diffusion and advection — built for high-speed and industrial CFD |
 | [**OpenFoamNumerics**](https://github.com/ammad45/OpenFoamNumerics) | Quality-aware hybrid gradient schemes (`libnumerics`) for OpenFOAM |
 | [**TurbulenceModelling**](https://github.com/ammad45/TurbulenceModelling) | Turbulence-model development and experiments |
-| [**smoothMatrix**](https://github.com/ammad45/smoothMatrix) | Matrix / numerics utilities |
+| [**smoothMatrix**](https://github.com/ammad45/smoothMatrix) | Finite Volume Matrix / numerics utilities |
 
 ---
 
@@ -36,9 +35,3 @@ If a recruiter needs one line: *I make finite-volume numerics that don’t fall 
 `C++` · `OpenFOAM` (ESI + openfoam.org / TCAE) · `finite volume methods` · `Linux` · `Git` · high-performance CFD workflows
 
 ---
-
-### Looking for
-
-Roles in **CFD software**, **numerical methods**, or **simulation R&D** where strong C++ and deep OpenFOAM/FVM experience matter.
-
-Open to conversations — feel free to reach out via [GitHub](https://github.com/ammad45).
