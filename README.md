@@ -1,37 +1,25 @@
-# Ammad Fareed
+# Hey there 👋
 
-**CFD software engineer · Numerical methods .**  
-Germany
+I'm Ammad, a CFD engineer based in Germany.
 
-I build **production-grade numerics** for Computational Fluid Dynamics and schemes that stay accurate and stable on real industrial , bad meshes and complex physics. 
----
+I mostly work on numerical methods for fluid simulation — accurate, stable discretisation on complex meshes, especially for high speed flows.
 
-### What I do
+I care about schemes that stay robust when mesh quality is imperfect and when pressure–velocity coupling is weak.
 
-I work at the intersection of **algorithm design** and **CFD software engineering**:
-
-- Custom **OpenFOAM** libraries (ESI & Foundation / TCAE)
-- Implicit mesh-quality corrections for gradients, `snGrad`, and convection
-- Hybrid / blended gradient schemes for distorted cells
-- Turbulence modelling and matrix / solver-side tooling
-
-If a recruiter needs one line: *I make finite-volume numerics that don’t fall over on ugly meshes or high-Mach flows.*
+This is a fresh profile which collects libraries and experiments I'm actively developing for real CFD workflows.
 
 ---
 
-### Featured work
+## Tools & Tech
 
-| Project | What it is |
-| --- | --- |
-| [**surfaceNormalGradientSchemes**](https://github.com/ammad45/surfaceNormalGradientSchemes) | Implicit non-orthogonal & skew corrections for diffusion and advection — built for high-speed and industrial CFD |
-| [**OpenFoamNumerics**](https://github.com/ammad45/OpenFoamNumerics) | Quality-aware hybrid gradient schemes (`libnumerics`) for OpenFOAM |
-| [**TurbulenceModelling**](https://github.com/ammad45/TurbulenceModelling) | Turbulence-model development and experiments |
-| [**smoothMatrix**](https://github.com/ammad45/smoothMatrix) | Finite Volume Matrix / numerics utilities |
+* C++, numerical methods, finite volume CFD
+* Automation and testing workflows with Python
+* Linux, Git, HPC-oriented development
 
 ---
 
-### Stack
+## A Bit About Me
 
-`C++` · `OpenFOAM` (ESI + openfoam.org / TCAE) · `finite volume methods` · `Linux` · `Git` · high-performance CFD workflows
-
----
+* 🧩 Love 3D and jigsaw puzzles
+* 🎲 Always ready for board game night
+* ✈️ Love to travel
