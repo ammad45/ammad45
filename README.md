@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Ammad, a CFD engineer based in Germany.
+I'm Ammad, a CFD software engineer based in Germany.
 
 I mostly work on numerical methods for fluid simulation — accurate, stable discretisation on complex meshes, especially for high speed flows.
 
